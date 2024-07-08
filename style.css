@@ -105,6 +105,18 @@ body{
     }
   }
 
+.lnk{
+  text-decoration: none;
+  color: #c4bebe;
+}
+
+.lnk:hover{
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+
+} 
+
 .image{
     /* object-fit: ; */
     width: 160px;
