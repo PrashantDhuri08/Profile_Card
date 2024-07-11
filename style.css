@@ -11,6 +11,10 @@ body{
     height: 100vh;
 }
 
+.logo{
+  border-radius: 100px;
+}
+
 .pcard{
     /* background-color: #231E39; */
     width: 350px;
